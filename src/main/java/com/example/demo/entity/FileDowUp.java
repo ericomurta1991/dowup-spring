@@ -10,6 +10,7 @@ import lombok.NoArgsConstructor;
 public class FileDowUp {
 	private String fileName;
 	private String fileDownloadUri;
+	private String fileType;
 	private Long size;
 	
 }
